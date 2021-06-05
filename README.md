@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Alejandro Celis, feel free to reach to me
+- 👋 Hi, I’m Alejandro Celis.
