@@ -2,7 +2,7 @@
 Hi, I’m Alejandro Celis 👋
 
 @@Into Data Science, Machine Learning, Mathematics and Physics@@
-+ living in Munich, Germany, born and raised in Caracas, Venezuela.
-! working at relayr, feel free to reach out
++ I am living in Munich, Germany. I am originally from Caracas, Venezuela.
+! working now at [relayr](https://relayr.io) in Industrial Internet of Things, feel free to reach out
 ```
 
