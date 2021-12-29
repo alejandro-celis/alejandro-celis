@@ -2,7 +2,7 @@
 
 ```diff
 @@ Into Data Science, Machine Learning, Mathematics and Physics @@
-+ I am living in Munich, Germany :de:. I am originally from Caracas, Venezuela :venezuela:.
++ I am living in Munich, Germany. I am originally from Caracas, Venezuela.
 ! I am working now at relayr on the Industrial Internet of Things
 + Feel free to reach out!
 ```
