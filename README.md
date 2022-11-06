@@ -4,4 +4,6 @@
 ```diff
 @@ Into Data Science, Software Engineering, Machine Learning, Mathematics and Physics @@
 + Feel free to reach out! 
++ . 
+- .
 ```
